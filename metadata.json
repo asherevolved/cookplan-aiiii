@@ -1,0 +1,6 @@
+{
+  "name": "CookPlan AI",
+  "description": "Generate personalized daily cooking plans, grocery lists, and budget analysis based on your dietary preferences and time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
